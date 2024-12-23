@@ -8,9 +8,9 @@
 ---
 ## Table of Contents
 
- 1. [Ying Yang Wars](#Ying+Yang+Wars)
- 2. [Smart Cube](#smart+cube)
- 3. [End For Wisagi](#end+for+wisagi)
+ 1. [Ying Yang Wars](#Ying-Yang-Wars)
+ 2. [Smart Cube](#smart-cube)
+ 3. [End For Wisagi](#end-for-wisagi)
 
 
 ---
@@ -19,6 +19,7 @@
 ---
 ## Smart Cube
 ---
+
 ## End For Wisagi
 ---
 
