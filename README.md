@@ -16,10 +16,16 @@
 ---
 
 ## Ying Yang Wars
+
+You can find the game [here](https://play.scoolcode.com/65ef64977d04975a9f54f5b2?).
 ---
 ## Smart Cube
+
+You can find the game [here](https://play.scoolcode.com/65fc87e3aca38318d2c91d63?).
 ---
 
 ## End For Wisagi
+
+You can find the game [here](https://play.scoolcode.com/65f016776bd2cb4fbac5a564?).
 ---
 
