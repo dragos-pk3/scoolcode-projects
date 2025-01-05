@@ -17,6 +17,7 @@
 ## Ying Yang Wars
 
 You can find the game [here](https://play.scoolcode.com/65ef64977d04975a9f54f5b2?).
+![Ying Yang Wars Gif](visuals/yinyangwars.gif)
 
 The game is inspired by the internet famous [pong wars](https://github.com/vnglst/pong-wars).
 ***
