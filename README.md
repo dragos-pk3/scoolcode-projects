@@ -16,12 +16,14 @@
 
 ## Ying Yang Wars
 
-You can find the game [here](https://play.scoolcode.com/65ef64977d04975a9f54f5b2?).
 ![Ying Yang Wars Gif](visuals/yinyangwars.gif)
+
+You can find the game [here](https://play.scoolcode.com/65ef64977d04975a9f54f5b2?).
 
 The game is inspired by the internet famous [pong wars](https://github.com/vnglst/pong-wars).
 ***
 ## Smart Cube
+![Smart Cube Gif](visuals/smartcube.gif)
 
 You can find the game [here](https://play.scoolcode.com/65fc87e3aca38318d2c91d63?).
 
@@ -29,8 +31,12 @@ Smart Cube is inspired by [1-Square](https://www.coolmathgames.com/0-1-square), 
 
 1-Square was given as the contest theme for a Unity Development Intership, where I was selected with my original project that can be found [here](https://github.com/dragos-pk3/smartcube-unity).
 
+This project was my first game ever made with Unity and I took the time to write a version for the Scoolcode Platform. 
+
 ***
 ## End For Wisagi
+
+![Boss Battle Gif](visuals/bossbattle.gif)
 
 You can find the game [here](https://play.scoolcode.com/65f016776bd2cb4fbac5a564?).
 
