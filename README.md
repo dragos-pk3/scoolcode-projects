@@ -11,6 +11,7 @@
  1. [Ying Yang Wars](#Ying-Yang-Wars)
  2. [Smart Cube](#smart-cube)
  3. [End For Wisagi](#end-for-wisagi)
+ 4. [Skillshot]()
 
 ***
 
@@ -106,5 +107,13 @@ Together, they form the playful phrase “End For Wisagi”, making an emphasis 
 
 You can find the game [here](https://play.scoolcode.com/65f016776bd2cb4fbac5a564?).
 
+---
+## Skillshot
+![Skillshot Gif](visuals/skillshot.gif)
+
+You can find the game [here](https://play.scoolcode.com/67b4e5676eeff6b6e34ee746?).
+
+The game is inspired by [Lol Dodge Game](https://loldodgegame.com/skillshot/).
+***
 ***
 
